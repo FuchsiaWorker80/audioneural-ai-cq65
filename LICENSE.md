@@ -1,4 +1,4 @@
-# 
+# Ligero AudioNeural kit de herramientas. Descarga e instala con documentación detallada y multiplataforma — rápido, seguro y fácil de usar.
 
 
 
